@@ -6,6 +6,7 @@ A GitHub Action for installing the [helm/chart-testing](https://github.com/helm/
 
 ### Pre-requisites
 
+
 1. A GitHub repo containing a directory with your Helm charts (e.g: `charts`)
 1. A workflow YAML file in your `.github/workflows` directory.
   An [example workflow](#example-workflow) is available below.
